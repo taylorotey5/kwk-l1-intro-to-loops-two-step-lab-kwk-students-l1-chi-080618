@@ -2,14 +2,19 @@
 
 This is a group lab, so make sure you are working in a group of 2-4 students
 
-puts "Right foot back"
-sleep(0.5)
-puts "Left foot back"
-sleep(0.5)
-puts "Right foot back"
-sleep(0.5)
-puts "Stop"
-sleep(1)
+  puts "Right foot back"
+  sleep(0.5)
+  puts "Left foot back"
+  sleep(0.5)
+  puts "Right foot back"
+  sleep(0.5)
+  puts "Stop"
+  sleep(1)
+  end 
+end 
+
+def a_few_more_steps
+  loop
 
 Have you ever seen a Two Step?  It is _not_ two steps! It is at least
 ten... maybe even twenty or thirty steps. And that's only if we stop dancing!
